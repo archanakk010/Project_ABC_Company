@@ -41,9 +41,9 @@ Identification of the age group with the highest representation in the workforce
 Teams and positions with the highest salary spending are identified.
 The distribution of salaries across different teams and positions is studied.
 
-#### Correlation between Age and Salary:
+#### 5.Correlation between Age and Salary:
 
-A scatter plot is used to visually explore potential correlations between age and salary.
+A heatmap is used to visually explore potential correlations between age and salary.
 
 
 ## Conclusion:
